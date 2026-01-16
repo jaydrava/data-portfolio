@@ -12,25 +12,21 @@ I am transitioning from IT into Data Analytics, focused on turning messy busines
 
 ### 1) Marketing Campaign A/B Test (Email Campaign)
 
-**Goal:** Identify the winning campaign stratgey and quantify impact
+**Goal:** Identify the winning campaign strategy and quantify impact  
+**Tools:** SQL + Python + Tableau + T-Test  
+✅ **Result:** Campaign B won on revenue per email and revenue per purchase  
+📌 **Statistical Significance:** p-value < 0.05  
 
-**Tools:** SQL + Python + Tableau + T-Test
+🔗 [Tableau Dashboard](https://public.tableau.com/app/profile/jaydeep.raval/viz/Email_Campaign_AB_Test_Analysis/EmailCampaignAnalysis?publish=yes)  
+📁 [Repo Folder](YOUR_GITHUB_FOLDER_LINK)
 
-✅ **Result:** Campaign B won on revenue per email and revenue per purchase
+---
 
-📌 **Statistical Significance:** p-value < 0.05
+### 2) E-Commerce Sales Analysis
 
-🔗[Tableau Dashboard:] https://public.tableau.com/app/profile/jaydeep.raval/viz/Email_Campaign_AB_Test_Analysis/Dashboard1?publish=yes
+**Goal:** Analyze trends, customer value, product performance  
+**Tools:** SQL + Python + Tableau  
 
-🔗[Repo Folder:] https://github.com/jaydrava/66-day-data-analyst-journey/tree/main/projects/marketing_campaign_project
-
-### 2) E-commerce Sales Analysis
-
-**Goal:** Analyze trends, customer value, product performance.
-
-**Tools:** SQL + Python + Tableau.
-
-🔗[Tableau Dashboard:] https://public.tableau.com/app/profile/jaydeep.raval/viz/E-CommerceSalesRevenueInsights/E-commerceSales?publish=yes
-
-🔗Repo Folder: https://github.com/jaydrava/66-day-data-analyst-journey/tree/main/projects/ecommerce-analysis
+🔗 [Tableau Dashboard](https://public.tableau.com/app/profile/jaydeep.raval/viz/E-CommerceSalesRevenueInsights/E-commerceSales?publish=yes)  
+📁 [Repo Folder](YOUR_GITHUB_FOLDER_LINK)
 
