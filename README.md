@@ -13,8 +13,11 @@ I am transitioning from IT into Data Analytics, focused on turning messy busines
 ### 1) Marketing Campaign A/B Test (Email Campaign)
 
 **Goal:** Identify the winning campaign stratgey and quantify impact
+
 **Tools:** SQL + Python + Tableau + T-Test
+
 ✅ **Result:** Campaign B won on revenue per email and revenue per purchase
+
 📌 **Statistical Significance:** p-value < 0.05
 
 🔗[Tableau Dashboard:] https://public.tableau.com/app/profile/jaydeep.raval/viz/Email_Campaign_AB_Test_Analysis/Dashboard1?publish=yes
@@ -24,8 +27,10 @@ I am transitioning from IT into Data Analytics, focused on turning messy busines
 ### 2) E-commerce Sales Analysis
 
 **Goal:** Analyze trends, customer value, product performance.
+
 **Tools:** SQL + Python + Tableau.
 
 🔗[Tableau Dashboard:] https://public.tableau.com/app/profile/jaydeep.raval/viz/E-CommerceSalesRevenueInsights/E-commerceSales?publish=yes
+
 🔗Repo Folder: https://github.com/jaydrava/66-day-data-analyst-journey/tree/main/projects/ecommerce-analysis
 
