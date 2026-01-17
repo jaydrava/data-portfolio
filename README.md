@@ -47,3 +47,8 @@ I am transitioning from IT into Data Analytics, focused on turning messy busines
 
 🔗 [Tableau Dashboard](https://public.tableau.com/app/profile/jaydeep.raval/viz/CustomerAnalysisDashboard_17677175510170/Dashboard1?publish=yes)  
 📁 [Repo Folder](https://github.com/jaydrava/66-day-data-analyst-journey/tree/main/projects/customer-analysis-dashboard)
+
+## 📫 Contact
+- LinkedIn: [www.linkedin.com/in/jayraval-432543192]
+- Tableau Public: [https://public.tableau.com/app/profile/jaydeep.raval/vizzes]
+- Email: [jaydeepraval.0901@gmail.com]
