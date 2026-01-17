@@ -36,7 +36,7 @@ I am transitioning from IT into Data Analytics, focused on turning messy busines
 **Goal:** Track KPIs and performance drivers  
 **Tools:** Excel (pivot tables, KPI tiles, slicers)
 
-🔗 [Tableau Dashboard](https://public.tableau.com/app/profile/jaydeep.raval/viz/SalesPerformanceDashboard2025_17674576024080/Dashboard1?publish=yes)
+🔗 [Tableau Dashboard](https://public.tableau.com/app/profile/jaydeep.raval/viz/SalesPerformanceDashboard2025_17674576024080/Dashboard1?publish=yes)  
 📁 [Repo Folder](https://github.com/jaydrava/66-day-data-analyst-journey/tree/main/projects/01-sales-proformance-dashboard)
 
 ---
@@ -45,5 +45,5 @@ I am transitioning from IT into Data Analytics, focused on turning messy busines
 **Goal:** Identify high-value segments and growth opportunities  
 **Tools:** Tableau + SQL  
 
-🔗 [Tableau Dashboard](https://public.tableau.com/app/profile/jaydeep.raval/viz/CustomerAnalysisDashboard_17677175510170/Dashboard1?publish=yes)
+🔗 [Tableau Dashboard](https://public.tableau.com/app/profile/jaydeep.raval/viz/CustomerAnalysisDashboard_17677175510170/Dashboard1?publish=yes)  
 📁 [Repo Folder](https://github.com/jaydrava/66-day-data-analyst-journey/tree/main/projects/customer-analysis-dashboard)
