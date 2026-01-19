@@ -28,7 +28,7 @@ I am transitioning from IT into Data Analytics, focused on turning messy busines
 **Tools:** SQL + Python + Tableau  
 
 🔗 [Tableau Dashboard](https://public.tableau.com/app/profile/jaydeep.raval/viz/E-CommerceSalesRevenueInsights/E-commerceSales?publish=yes)  
-📁 [Repo Folder]()
+📁 [Repo Folder](projects/02-E-commerce Sales Analysis)
 
 ---
 
