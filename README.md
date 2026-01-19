@@ -18,7 +18,7 @@ I am transitioning from IT into Data Analytics, focused on turning messy busines
 📌 **Statistical Significance:** p-value < 0.05  
 
 🔗 [Tableau Dashboard](https://public.tableau.com/app/profile/jaydeep.raval/viz/Email_Campaign_AB_Test_Analysis/EmailCampaignAnalysis?publish=yes)  
-📁 [Repo Folder](https://github.com/jaydrava/66-day-data-analyst-journey/tree/main/projects/marketing_campaign_project)
+📁 [Repo Folder](https://github.com/jaydrava/66-day-data-analyst-journey/tree/main/projects/04-marketing_campaign_project)
 
 ---
 
@@ -28,7 +28,7 @@ I am transitioning from IT into Data Analytics, focused on turning messy busines
 **Tools:** SQL + Python + Tableau  
 
 🔗 [Tableau Dashboard](https://public.tableau.com/app/profile/jaydeep.raval/viz/E-CommerceSalesRevenueInsights/E-commerceSales?publish=yes)  
-📁 [Repo Folder](projects/02-E-commerce Sales Analysis)
+📁 [Repo Folder](https://github.com/jaydrava/66-day-data-analyst-journey/tree/main/projects/02-E-commerce%20Sales%20Analysis)
 
 ---
 
@@ -46,7 +46,7 @@ I am transitioning from IT into Data Analytics, focused on turning messy busines
 **Tools:** Tableau + SQL  
 
 🔗 [Tableau Dashboard](https://public.tableau.com/app/profile/jaydeep.raval/viz/CustomerAnalysisDashboard_17677175510170/Dashboard1?publish=yes)  
-📁 [Repo Folder](https://github.com/jaydrava/66-day-data-analyst-journey/tree/main/projects/customer-analysis-dashboard)
+📁 [Repo Folder](https://github.com/jaydrava/66-day-data-analyst-journey/tree/main/projects/03-customer-analysis-dashboard)
 
 ## 📫 Contact
 - LinkedIn: [www.linkedin.com/in/jayraval-432543192]
